@@ -143,7 +143,7 @@ export default function Home() {
           />
 
         </div>
-        <div className="w-full max-w-3xl border border-gray-800 bg-gray-transparent lg:h-[45vh] rounded-2xl m-4">
+        <div className="w-full max-w-3xl border border-gray-800 bg-gray-transparent  rounded-2xl m-4">
           <div className="flex items-center justify-center w-full h-24 bg-transparent rounded-lg">
             <Typography variant="h4" className="text-white font-playfair">
               INVENTORY ITEMS
